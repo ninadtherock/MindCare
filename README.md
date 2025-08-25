@@ -79,12 +79,5 @@ MindCare is a web-based mental wellness platform developed as a part of our fina
 - Raj Sangle
 - Sadashiv Sawant
 
-## 👩‍🏫 Supervisor
-
-Prof. Shraddha Kawji  
-Department of Artificial Intelligence and Data Science  
-Datta Meghe College of Engineering, Navi Mumbai
-
----
 
 > This project is built with ❤️ to promote mental health awareness and digital well-being.
